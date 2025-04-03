@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.lucas.exoplayer"
+    namespace = "com.example.exoplayer"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.lucas.exoplayerLucas"
+        applicationId = "com.example.exoplayerLucas"
         minSdk = 28
         targetSdk = 35
         versionCode = 1

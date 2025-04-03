@@ -7,6 +7,7 @@ import androidx.compose.ui.viewinterop.AndroidView
 import androidx.media3.exoplayer.ExoPlayer
 import androidx.media3.ui.PlayerView
 
+// Integra PlayerView de ExoPlayer en Compose
 @Composable
 fun Media3AndroidView(player: ExoPlayer?) {
     AndroidView(
